@@ -1,0 +1,1 @@
+C:\Users\marcu\source\repos\rust\Project_Euler\target\debug\pe-008.exe: C:\Users\marcu\source\repos\rust\Project_Euler\pe-008\src\main.rs C:\Users\marcu\source\repos\rust\Project_Euler\pe-008\src\pe-008-input.txt
