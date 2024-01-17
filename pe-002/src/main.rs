@@ -1,3 +1,4 @@
+#![warn(unused_variables)]
 #![feature(more_float_constants)]
 use std::f64::consts::PHI;
 use std::time::Instant;

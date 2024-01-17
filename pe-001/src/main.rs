@@ -15,7 +15,7 @@ fn main() {
 
     // math
     // sum of both groups of (multiples of 3) and (multiples of 5), minus the overlap
-    let _result = sum_multiples(limit, 3) + sum_multiples(limit, 5) - sum_multiples(limit, 15);
+    let result = sum_multiples(limit, 3) + sum_multiples(limit, 5) - sum_multiples(limit, 15);
     
     // // built in rust iterators and methods
     // // sum of both groups of (multiples of 3) and (multiples of 5), minus the overlap
@@ -24,5 +24,5 @@ fn main() {
     
     // print elapsed time
     println!("{:?}", before.elapsed());
-    println!("{}", _result);
+    println!("{}", result);
 }
